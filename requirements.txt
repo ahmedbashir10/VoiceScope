@@ -1,0 +1,19 @@
+# Data loading
+datasets==2.18.0         # For loading Common Voice from Hugging Face
+
+# Audio processing
+librosa==0.10.1          # For MFCC and audio feature extraction
+soundfile==0.12.1        # Backend for librosa audio I/O
+
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Classical machine learning
+scikit-learn==1.4.2
+
+# Visualization
+matplotlib==3.8.4
+
+# Optional: for progress bars
+tqdm==4.66.2
