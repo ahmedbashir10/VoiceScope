@@ -8,8 +8,8 @@ __pycache__/
 
 # Data
 data/
-models/
+#models/
 
 # Environment
 .env
-venv/
+.venv/
