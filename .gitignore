@@ -8,8 +8,22 @@ __pycache__/
 
 # Data
 data/
-#models/
+testdata/
+testdataset/
+models/
+
 
 # Environment
 .env
 .venv/
+
+pictures/
+modeels/
+
+
+audios/
+visualizations/
+
+project.ipynb
+testdemo.ipynb
+
