@@ -17,12 +17,11 @@ models/
 .env
 .venv/
 
-pictures/
+
 modeels/
 
 
 audios/
-visualizations/
 
 project.ipynb
 testdemo.ipynb
