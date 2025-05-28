@@ -15,12 +15,9 @@ models/
 
 # Environment
 .env
-.venv/
 
 
 modeels/
-
-
 
 project.ipynb
 testdemo.ipynb
